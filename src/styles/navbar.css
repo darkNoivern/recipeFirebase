@@ -1,0 +1,7 @@
+.navbar{
+    box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.5) !important;
+}
+
+.logout-link{
+    cursor: pointer;
+}

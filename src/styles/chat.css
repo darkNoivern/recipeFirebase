@@ -1,0 +1,35 @@
+.page-bg {
+    min-height: 100vh;
+}
+
+.send-btn{
+    border-radius: 1.5rem !important;
+}
+
+.chat-message{
+    min-width: 10rem;
+    border-radius: 1rem 1rem 1rem 0rem;
+}
+
+.chat-own-message{
+    min-width: 10rem;
+    border-radius: 1rem 1rem 0rem 1rem;
+}
+
+.type-box{
+    position: fixed;
+    bottom: 1rem;
+    right: 0;
+    left: 0;
+    /* width: 100vw; */
+    display: flex;
+}
+
+.chat-input{
+    border-radius: 1.5rem;
+}
+
+.userdp img{
+    width: 2.7rem;
+    border-radius: 50%;
+}
